@@ -1,8 +1,10 @@
 # Atelier Python pour l'analyse de données (M1-INF4)
 
-Our group's repo for the M1-INF4 Python workshop (Master MIAGE, Paris 1 Panthéon-Sorbonne).
+Our group's repo for the M1-INF4 Python workshop (Master MIAGE IBI, Paris 1 Panthéon-Sorbonne).
 
-**Team:** Horia Filip Radulescu, Oumnia Hannouni, Fariza Faradji, Noraiz Aziz.
+**Team (G03):** Horia Filip Radulescu, Oumnia Hannouni, Fariza Faradji, Noraiz Aziz.
+
+All the notebooks were built together during the workshops and continued together outside of them.
 
 ## Getting set up
 
