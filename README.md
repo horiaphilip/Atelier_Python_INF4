@@ -21,4 +21,4 @@ pip install -r requirements.txt
 4. [EDA & visualization](notebooks/04-EDA-Visualization-S4.ipynb)
 5. [Data integration case study](notebooks/05-Data-Integration-Case-Study.ipynb)
 
-Each notebook expects the matching CSVs in `data/` (already included here).
+Each notebook expects the matching CSVs in `data/`. The tables and figures exported by the Session 5 notebook land in `notebooks/case_study_outputs/`.
