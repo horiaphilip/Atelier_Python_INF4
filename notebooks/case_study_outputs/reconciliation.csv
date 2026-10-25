@@ -1,0 +1,6 @@
+stage,rows
+Raw sales rows,252
+Exact duplicate rows removed,-2
+Invalid rows set aside (sales_review),-7
+Unmatched reference set aside (integration_review),-2
+Final analysis population,241
